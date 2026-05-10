@@ -59,7 +59,7 @@ Unlike tools that generate one snippet at a time, Kiro **understands your entire
 
 ## ☁️ Enterprise Cloud Practices
 
-This profile focuses on applying **Kiro's agentic capabilities** to real-world enterprise cloud engineering:
+This repo focuses on applying **Kiro's agentic capabilities** to real-world enterprise cloud engineering:
 
 ### Infrastructure & Cloud Management
 
