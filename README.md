@@ -209,14 +209,8 @@ Once committed to Git, hooks enforce standards across **every developer on the t
 
 ```bash
 # 1. Download Kiro IDE from kiro.dev
-#    (Built on Code OSS — keep your VS Code settings & extensions)
-
 # 2. Sign in via enterprise SSO
-kiro login --sso --provider aws-iam-identity-center
-
 # 3. Initialize a spec-driven project
-kiro spec init "Build a secure microservice for payment processing"
-
 # 4. Review generated requirements, design, and tasks
 # 5. Let agents implement — review and approve changes
 # 6. Hooks enforce standards on every save, automatically
